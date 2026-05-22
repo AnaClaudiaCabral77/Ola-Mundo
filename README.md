@@ -1,2 +1,3 @@
-# Ola Mundo
-Primeiro repositorio versionado curso gitbub
+# Olá, Mundo!
+Primeiro repositório no curso Git GitHub.
+
