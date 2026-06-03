@@ -1,3 +1,3 @@
 # Olá, Mundo!
-Primeiro repositório no curso Git GitHub.
+Primeiro repositório no curso **Git GitHub**.
 
